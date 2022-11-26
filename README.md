@@ -10,7 +10,7 @@ Youtube link: https://youtu.be/PKS5jK3zrGY
 - Threshold Inverse
 
 ## 2. Image Color Transformation
-Image color transform to one dimension to another dimension
+Image color transforms from one dimension to another dimension.
 
 - RGB to Gray
 - RGB to CIE xyz
